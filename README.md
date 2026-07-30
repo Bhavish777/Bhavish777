@@ -1,4 +1,3 @@
-
 # Hi there, I'm Bhavish Khosla 👋
 
 🎓 **Student  @ University of British Columbia**
@@ -10,7 +9,7 @@ I am passionate about data science, machine learning, and building robust analyt
 - Expanding my knowledge in statistical frameworks and quantitative analysis.
 
 
----
+
 
 ### 💻 Tech Stack & Tools
 
@@ -29,18 +28,19 @@ I am passionate about data science, machine learning, and building robust analyt
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
----
+
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Bhavish's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhavish777&show_icons=true&theme=radical" alt="Bhavish's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavish777&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
----
+
 
 ### 📫 Connect with me
+
 
 <a href="mailto:bhavishkhosla@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
