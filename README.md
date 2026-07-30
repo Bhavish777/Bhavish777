@@ -1,67 +1,47 @@
-<h1 align="center">Hi, I'm Bhavish 👋</h1>
 
-<p align="center">
-  Software Developer • Data/AI Learner • Building real projects
-</p>
+# Hi there, I'm Bhavish Khosla 👋
 
----
+🎓 **Student  @ University of British Columbia**
 
-## 🧠 Tech Stack
+I am passionate about data science, machine learning, and building robust analytical pipelines. When I'm not studying or teaching, I'm usually diving into Kaggle datasets, experimenting with Python workflows, or fine-tuning random forest models.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B" />
-  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
-  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=00C7B7" />
-  <img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=00C7B7" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-111827?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00" />
-</p>
+### 🔭 Current Focus
+- Developing machine learning pipelines and evaluating feature importance.
+- Expanding my knowledge in statistical frameworks and quantitative analysis.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-</p>
 
 ---
 
-## 📊 GitHub Stats
+### 💻 Tech Stack & Tools
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Bhavish777&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF" 
-    height="165"
-  />
-</p>
+**Languages & Core:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
----
+**Data Science & Machine Learning:**
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
-## 🔥 Language Percentage From My Projects
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavish777&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&hide=Jupyter%20Notebook" 
-    height="280"
-  />
-</p>
+**Tools & Platforms:**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
 ---
 
-## 🚀 Featured Project
+### 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/Bhavish777/Stock-Tracker-Project">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Bhavish777&repo=Stock-Tracker-Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&icon_color=00E5FF" 
-    />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Bhavish's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
-## 🛠️ Currently Working On
+### 📫 Connect with me
 
-```txt
-Building backend projects with Python, FastAPI, SQLAlchemy, and databases.
-Learning frontend to make projects look more product-like and polished.
+<a href="mailto:bhavishkhosla@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
