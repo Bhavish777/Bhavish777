@@ -2,7 +2,7 @@
 
 🎓 **Student  @ University of British Columbia**
 
-I am passionate about data science, machine learning, and building robust analytical pipelines. When I'm not studying or teaching, I'm usually diving into Kaggle datasets, experimenting with Python workflows, or fine-tuning random forest models.
+I am passionate about data science, machine learning, and building robust analytical pipelines. When I'm not studying or teaching, I'm usually diving into Kaggle datasets, experimenting with Python[...]
 
 ### 🔭 Current Focus
 - Developing machine learning pipelines and evaluating feature importance.
@@ -32,10 +32,9 @@ I am passionate about data science, machine learning, and building robust analyt
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 [![Bhavish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhavish777&show_icons=true&theme=radical)](https://github.com/Bhavish777)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavish777&layout=compact&theme=radical)](https://github.com/Bhavish777)
+
 
 
 ### 📫 Connect with me
