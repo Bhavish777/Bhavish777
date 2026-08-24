@@ -32,11 +32,10 @@ I am passionate about data science, machine learning, and building robust analyt
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhavish777&show_icons=true&theme=radical" alt="Bhavish's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavish777&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+### 📊 GitHub Stats
 
+[![Bhavish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhavish777&show_icons=true&theme=radical)](https://github.com/Bhavish777)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavish777&layout=compact&theme=radical)](https://github.com/Bhavish777)
 
 
 ### 📫 Connect with me
