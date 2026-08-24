@@ -32,8 +32,9 @@ I am passionate about data science, machine learning, and building robust analyt
 
 ### 📊 GitHub Stats
 
-[![Bhavish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhavish777&show_icons=true&theme=radical)](https://github.com/Bhavish777)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavish777&layout=compact&theme=radical)](https://github.com/Bhavish777)
+![Repositories](https://img.shields.io/badge/Public%20Repositories-3-blue?style=flat-square)
+![Followers](https://img.shields.io/badge/Followers-0-blue?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-Java%20%7C%20Python%20%7C%20R-brightgreen?style=flat-square)
 
 
 
